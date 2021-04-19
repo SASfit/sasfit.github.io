@@ -2,6 +2,6 @@ title: SASfit
 logo: /assets/img/sasfit_icon_text_w480.png
 description: Small-Angle Scattering Analysis Toolbox.
 repository_url: https://github.com/SASfit/SASfit
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
