@@ -4,3 +4,4 @@ description: Small-Angle Scattering Analysis Toolbox.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+repository: SASfit/SASfit
