@@ -28,8 +28,9 @@
           <li><a href="{{ site.devbuild_url }}">Download <strong>Latest Dev. Build</strong></a></li>
         </ul>
         {% endif %}
-        <h2>Contents</h2>
-        {{ content | toc_only }}
+        <h2 class="toc">Contents</h2>
+        {% capture my_include %}{% include_relative toc.md %}{% endcapture %}
+        {{ my_include | markdownify }}
       </header>
       <section>
 
