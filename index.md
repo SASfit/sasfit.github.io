@@ -76,7 +76,7 @@ The latest changes and versions of the program can be found in the
 
 ## Startup issues on macOS
 
-![sasfit.command error on macOS](doc/images/sasfit.command%20error%20on%20macOS.png)
+![sasfit.command error on macOS](https://raw.githubusercontent.com/SASfit/SASfit/master/doc/images/sasfit.command%20error%20on%20macOS.png)
 
 In case of this error about an unidentified developer (because we are not registered with Apple yet) one possible workaround is to remove the *quarantine* label of the downloaded file on macOS. This can be done by the following command in a Terminal window. It requires admin privileges:
 
@@ -208,7 +208,7 @@ This command removes files with are set to be ignored by GIT (*-x*), removes fil
  
 ## Sponsors
 
-[![Hosted By: Cloudsmith](https://img.shields.io/badge/OSS%20hosting%20by-cloudsmith-blue?logo=cloudsmith&style=flat)](https://cloudsmith.com)
+[![Hosted By: Cloudsmith](https://github.com/SASfit/SASfit/raw/master/doc/images/badge_cloudsmith.svg)](https://cloudsmith.com)
 
 Package repository hosting is graciously provided by [Cloudsmith](https://cloudsmith.com).
 Cloudsmith is the only fully hosted, cloud-native, universal package management solution, that
