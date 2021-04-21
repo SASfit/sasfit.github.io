@@ -29,7 +29,7 @@
         </ul>
         {% endif %}
         <h2 class="toc">Contents</h2>
-        {% capture my_include %}{% include_relative toc.md %}{% endcapture %}
+        {% capture my_include %}{% include toc.md %}{% endcapture %}
         {{ my_include | markdownify }}
       </header>
       <section>
