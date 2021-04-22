@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<!-- from https://stackoverflow.com/a/36848440 -->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Redirecting...</title>
+        <link rel="canonical" href="{{ page.redir_to }}"/>
+        <meta http-equiv="refresh" content="0;url={{ page.redir_to }}" />
+    </head>
+    <body>
+        <h3 style"text-align: center;vertical-align: middle;line-height: 30px;">
+        Redirecting ...<br/>
+        (<a href="{{ page.redir_to }}">Click here if you are not redirected.<a>)
+        <script>location='{{ page.redir_to }}'</script>
+        </h3>
+    </body>
+</html>
