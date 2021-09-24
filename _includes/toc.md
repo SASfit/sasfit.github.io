@@ -9,4 +9,5 @@
     - {:.toc}[macOS](#macos)
     - {:.toc}[Linux](#linux)
     - {:.toc}[Common helpers](#common-helpers)
+  - {:.toc}[To do](#to-do)
   - {:.toc}[Sponsors](#sponsors)
