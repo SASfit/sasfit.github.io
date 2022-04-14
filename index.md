@@ -58,13 +58,13 @@ Academic papers about SASfit have been published in:
 
 If SASfit has been significant in your research, and you would like to acknowledge the project in your academic publication, we suggest citing one of the aforementioned publications.
 
-## [The Manual](https://raw.githubusercontent.com/SASfit/SASfit/master/doc/manual/sasfit.pdf)
+## The Manual
 
 There is a comprehensive manual included the software package with a jumble of formulas used by SASfit.
 It evolves with the program to cover most of the implemented models and functions.
 The latest version can also be [viewed online](https://raw.githubusercontent.com/SASfit/SASfit/master/doc/manual/sasfit.pdf).
 
-## [Videos](https://www.youtube.com/user/SASfitTeam)
+## Videos
 
 For introduction and demonstration of the program and its main features, some tutorial videos can be found [in our YouTube channel](https://www.youtube.com/user/SASfitTeam):
 
