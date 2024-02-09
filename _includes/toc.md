@@ -4,6 +4,7 @@
   - {:.toc}[Videos](#videos)
   - {:.toc}[Versions and Changes](#versions-and-changes)
   - {:.toc}[MacOS Startup issues](#macos-startup-issues)
+    - {:.toc}[*no display name and no $DISPLAY environment variable*](#no-display-name-and-no-display-environment-variable)
     - {:.toc}[*SASfit is from an unidentified developer*](#sasfit-is-from-an-unidentified-developer)
   - {:.toc}[Building from source](#building-from-source)
     - {:.toc}[Windows](#windows)
